@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The User Interface of the memory application with REACT JS
+<section>
+  <img src = "https://github.com/salmaelbarbori/memory_game_numbers/blob/main/images/UI.PNG" alt="memory app" width="400" height="300">
+</section>
 
 ## Available Scripts
 
